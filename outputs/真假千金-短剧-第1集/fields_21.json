@@ -1,0 +1,23 @@
+[
+  {"field_name":"集数","type":"text"},
+  {"field_name":"场次","type":"text"},
+  {"field_name":"镜号","type":"text"},
+  {"field_name":"镜头时长","type":"text"},
+  {"field_name":"分镜时间段(s)","type":"text"},
+  {"field_name":"镜头角度","type":"text"},
+  {"field_name":"景别","type":"text"},
+  {"field_name":"运镜","type":"text"},
+  {"field_name":"特殊速度","type":"text"},
+  {"field_name":"转场方式","type":"text"},
+  {"field_name":"画面内容描述","type":"text"},
+  {"field_name":"场景中的人物","type":"text"},
+  {"field_name":"角色表情/情绪","type":"text"},
+  {"field_name":"音色备注","type":"text"},
+  {"field_name":"光源/色调","type":"text"},
+  {"field_name":"特效/合成说明","type":"text"},
+  {"field_name":"关键帧图片提示词","type":"text"},
+  {"field_name":"台词","type":"text"},
+  {"field_name":"音效/BGM","type":"text"},
+  {"field_name":"导演意图","type":"text"},
+  {"field_name":"状态","type":"text"}
+]
